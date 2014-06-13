@@ -1,4 +1,5 @@
 ## This is a markdown file
+Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).[[source]][1]
 
 ### Unordered list
 * First item.
@@ -7,5 +8,11 @@
 
 ### Ordered list
 1. first step...
+  1. Subparagraph, just adding two spaces before...
 1. second step...
+  1. Another subparagraph...
 1. N-steps... 
+
+[Graphical information about markdown by freeman2004] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet on GitHub")
+
+[1]: http://daringfireball.net/projects/markdown/
